@@ -16,3 +16,5 @@ function open_box1() {
 function close_box1() {
     Modal.style.display = 'none';
 }
+
+
