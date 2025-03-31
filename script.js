@@ -8,13 +8,13 @@ function open_box() {
 function close_box() {
     modal.style.display = 'none';
 }
-let Modal = document.querySelector('.container-modal1');
+let Modal1 = document.querySelector('.container-modal1');
 function open_box1() {
-    Modal.style.display = 'flex';
+    Modal1.style.display = 'flex';
 }
 
 function close_box1() {
-    Modal.style.display = 'none';
+    Modal1.style.display = 'none';
 }
 
 
